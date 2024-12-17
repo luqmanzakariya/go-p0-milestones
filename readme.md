@@ -1,5 +1,7 @@
 # Go - Phase 0 - Milestones
 
+Deployed verson: https://luqmanzakariya.github.io/go-p0-milestones/ <br />
+
 Nama: Muhammad Luqman Zakariya<br />
 Tema: Software House<br />
 Additional features: Perhitungan biaya pembuatan software<br />

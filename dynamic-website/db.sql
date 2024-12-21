@@ -1,3 +1,4 @@
+-- Data Definition Language (DDL)
 CREATE DATABASE IF NOT EXISTS dynamic;
  
 use dynamic;
@@ -18,7 +19,7 @@ CREATE TABLE IF NOT EXISTS messages (
   message TEXT
 );
 
--- SEED ADMIN USER
+-- Data Manipulation Language (DML), SEEDER FOR ADMIN USER
 INSERT INTO users (username, email, password, isLoggedIn, isAdmin)
 VALUES
   ('admin', 'admin@mail.com', 'admin', false, true)
